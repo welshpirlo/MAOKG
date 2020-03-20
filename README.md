@@ -1,1 +1,1 @@
-# MAOKG
+# MAOKG labs of Volodymyr Bozhko
